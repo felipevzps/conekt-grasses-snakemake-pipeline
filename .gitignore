@@ -1,0 +1,9 @@
+.snakemake
+Sviridis_726_v4.1.transcript_primaryTranscriptOnly.fa
+bbduk_resources
+samples_example
+logs
+preliminar_report.tsv
+Sviridis_PAIRED_filter_stats.txt
+Sviridis_PAIRED_quantmerge.txt
+Sviridis_PAIRED_srrlist_LowMapping_LowReads.csv
