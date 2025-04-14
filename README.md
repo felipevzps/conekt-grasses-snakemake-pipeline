@@ -36,9 +36,9 @@ tar -xzvf bbduk_resources.tar.gz
 gunzip Sviridis_726_v4.1.transcript_primaryTranscriptOnly.fa.gz
 ```
 
-4. Setup software paths in the config.yaml
+4. Setup software paths in the config.yaml  
 Before running the pipeline, review the [config.yaml](https://github.com/felipevzps/conekt-grasses-snakemake-pipeline/blob/main/config.yaml).
-Some paths in the configuration are user-specific, while others are cluster-specific. Therefore, whenever a new user intends to run the pipeline, it's necessary to adjust the software paths accordingly. 
+Some paths in the configuration are user-specific, while others are cluster-specific. Therefore, whenever a new user intends to run the pipeline, it's necessary to adjust the software paths accordingly.   
 >[!IMPORTANT]
 >This setup needs to be done only once per user
 
